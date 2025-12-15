@@ -40,4 +40,4 @@ public class User {
         System.out.println("Rol      : " + role);
         System.out.println("========================================\n");
     }
-}
+}// TODO: Add roles
